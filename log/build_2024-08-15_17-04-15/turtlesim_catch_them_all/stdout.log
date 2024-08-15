@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtlesim_catch_them_all/turtle_spawner.py -> /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+copying turtlesim_catch_them_all/controller.py -> /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+running install
+running install_lib
+copying /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner.py -> /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+copying /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/controller.py -> /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+byte-compiling /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all/turtle_spawner.py to turtle_spawner.cpython-312.pyc
+byte-compiling /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all/controller.py to controller.cpython-312.pyc
+running install_data
+copying package.xml -> /home/zero/turtlesim_project/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+running install_egg_info
+removing '/home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all-0.0.0-py3.12.egg-info
+running install_scripts
+Installing turtle_spawner script to /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+Installing turtlesim_controller script to /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+writing list of installed files to '/home/zero/turtlesim_project/build/turtlesim_catch_them_all/install.log'

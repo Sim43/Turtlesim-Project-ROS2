@@ -1,0 +1,209 @@
+[0.014s] Invoking command in '/home/zero/turtlesim_project/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zero/turtlesim_project/build/custom_interfaces -- -j4 -l4
+[0.043s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.072s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.170s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.173s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.211s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.248s] -- Found rosidl_adapter: 4.6.3 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[0.511s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[0.633s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.794s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.796s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[1.097s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[1.114s] -- Configuring done (1.1s)
+[1.159s] -- Generating done (0.0s)
+[1.163s] -- Build files have been written to: /home/zero/turtlesim_project/build/custom_interfaces
+[1.206s] [  2%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[1.214s] [  2%] Built target ament_cmake_python_copy_custom_interfaces
+[1.397s] [  2%] Built target custom_interfaces__rosidl_generator_type_description
+[1.411s] [  5%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.419s] [  8%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.466s] running egg_info
+[1.502s] writing custom_interfaces.egg-info/PKG-INFO
+[1.502s] writing dependency_links to custom_interfaces.egg-info/dependency_links.txt
+[1.503s] writing top-level names to custom_interfaces.egg-info/top_level.txt
+[1.606s] reading manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[1.606s] writing manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[1.652s] [  8%] Built target ament_cmake_python_build_custom_interfaces_egg
+[1.674s] [  8%] Built target custom_interfaces__cpp
+[1.781s] [ 11%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/turtle_coordinates__description.c.o[0m
+[1.783s] [ 17%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/turtle_coordinates__type_support.c.o[0m
+[1.783s] [ 17%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/turtle_coordinates__functions.c.o[0m
+[1.844s] [ 20%] [32m[1mLinking C shared library libcustom_interfaces__rosidl_generator_c.so[0m
+[1.883s] [ 20%] Built target custom_interfaces__rosidl_generator_c
+[1.901s] [ 29%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.902s] [ 32%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.903s] [ 32%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.903s] [ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[2.296s] [ 35%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_interfaces/msg/turtle_coordinates__type_support.cpp.o[0m
+[2.319s] [ 38%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces/msg/detail/turtle_coordinates__type_support.cpp.o[0m
+[2.341s] [ 41%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces/msg/turtle_coordinates__type_support.cpp.o[0m
+[2.352s] [ 44%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_interfaces/msg/detail/turtle_coordinates__type_support.c.o[0m
+[2.395s] [ 47%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_c.so[0m
+[2.408s] [ 50%] [32m[1mLinking C shared library libcustom_interfaces__rosidl_typesupport_introspection_c.so[0m
+[2.455s] [ 50%] Built target custom_interfaces__rosidl_typesupport_introspection_c
+[2.463s] [ 50%] Built target custom_interfaces__rosidl_typesupport_c
+[2.471s] [ 52%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[2.478s] [ 55%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[2.864s] [ 58%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_cpp.so[0m
+[2.868s] [ 61%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[2.929s] [ 61%] Built target custom_interfaces__rosidl_typesupport_cpp
+[2.934s] [ 64%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces/msg/detail/dds_fastrtps/turtle_coordinates__type_support.cpp.o[0m
+[2.956s] [ 67%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_interfaces/msg/detail/turtle_coordinates__type_support_c.cpp.o[0m
+[2.965s] [ 67%] Built target custom_interfaces__rosidl_typesupport_introspection_cpp
+[3.463s] [ 70%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[3.464s] [ 73%] [32m[1mLinking CXX shared library libcustom_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[3.563s] [ 73%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c
+[3.565s] [ 73%] Built target custom_interfaces__rosidl_typesupport_fastrtps_cpp
+[3.584s] [ 73%] Built target custom_interfaces
+[3.602s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[3.889s] [ 76%] Built target custom_interfaces__py
+[3.914s] [ 79%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_py.dir/rosidl_generator_py/custom_interfaces/msg/_turtle_coordinates_s.c.o[0m
+[4.037s] [ 82%] [32m[1mLinking C shared library libcustom_interfaces__rosidl_generator_py.so[0m
+[4.082s] [ 82%] Built target custom_interfaces__rosidl_generator_py
+[4.114s] [ 85%] [32mBuilding C object CMakeFiles/custom_interfaces_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[4.119s] [ 88%] [32mBuilding C object CMakeFiles/custom_interfaces_s__rosidl_typesupport_c.dir/rosidl_generator_py/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[4.120s] [ 91%] [32mBuilding C object CMakeFiles/custom_interfaces_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[4.222s] [ 94%] [32m[1mLinking C shared module rosidl_generator_py/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so[0m
+[4.250s] [ 94%] Built target custom_interfaces_s__rosidl_typesupport_introspection_c
+[4.281s] [ 97%] [32m[1mLinking C shared module rosidl_generator_py/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so[0m
+[4.286s] [100%] [32m[1mLinking C shared module rosidl_generator_py/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so[0m
+[4.310s] [100%] Built target custom_interfaces_s__rosidl_typesupport_c
+[4.316s] [100%] Built target custom_interfaces_s__rosidl_typesupport_fastrtps_c
+[4.327s] Invoked command in '/home/zero/turtlesim_project/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zero/turtlesim_project/build/custom_interfaces -- -j4 -l4
+[4.391s] Invoking command in '/home/zero/turtlesim_project/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zero/turtlesim_project/build/custom_interfaces
+[4.399s] -- Install configuration: ""
+[4.399s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/ament_index/resource_index/rosidl_interfaces/custom_interfaces
+[4.399s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/msg/TurtleCoordinates.json
+[4.399s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[4.399s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[4.399s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/turtle_coordinates.h
+[4.399s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_generator_c__visibility_control.h
+[4.399s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[4.399s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__description.c
+[4.399s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__functions.c
+[4.400s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__functions.h
+[4.400s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__type_support.c
+[4.400s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__struct.h
+[4.400s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__type_support.h
+[4.400s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/library_path.sh
+[4.400s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/library_path.dsv
+[4.400s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_c.so
+[4.400s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_c.so" to ""
+[4.400s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[4.401s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__rosidl_typesupport_fastrtps_c.h
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[4.401s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_c.so
+[4.401s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__type_support.c
+[4.401s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__rosidl_typesupport_introspection_c.h
+[4.401s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[4.401s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_c.so
+[4.402s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[4.402s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_c.so
+[4.402s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_c.so" to ""
+[4.402s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[4.402s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[4.402s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/turtle_coordinates.hpp
+[4.402s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[4.402s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__type_support.hpp
+[4.402s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__builder.hpp
+[4.402s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__struct.hpp
+[4.402s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__traits.hpp
+[4.403s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[4.403s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[4.403s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[4.403s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[4.403s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[4.403s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/dds_fastrtps
+[4.403s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__rosidl_typesupport_fastrtps_cpp.hpp
+[4.403s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[4.403s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[4.403s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces
+[4.404s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg
+[4.404s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail
+[4.404s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__type_support.cpp
+[4.404s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/turtle_coordinates__rosidl_typesupport_introspection_cpp.hpp
+[4.404s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_cpp.so
+[4.404s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[4.404s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_cpp.so
+[4.404s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_cpp.so" to ""
+[4.404s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/pythonpath.sh
+[4.404s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/pythonpath.dsv
+[4.404s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/PKG-INFO
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/SOURCES.txt
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/dependency_links.txt
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces-0.0.0-py3.12.egg-info/top_level.txt
+[4.405s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/__init__.py
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so
+[4.405s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so
+[4.406s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg
+[4.406s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/__init__.py
+[4.406s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/_turtle_coordinates.py
+[4.406s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/_turtle_coordinates_s.c
+[4.406s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[4.406s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_c.c
+[4.455s] Listing '/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces'...
+[4.456s] Compiling '/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/__init__.py'...
+[4.456s] Listing '/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg'...
+[4.456s] Compiling '/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/__init__.py'...
+[4.456s] Compiling '/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/msg/_turtle_coordinates.py'...
+[4.462s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[4.462s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.so" to ""
+[4.462s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so
+[4.462s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.so" to ""
+[4.463s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so
+[4.463s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.so" to ""
+[4.463s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_py.so
+[4.463s] -- Set non-toolchain portion of runtime path of "/home/zero/turtlesim_project/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_py.so" to ""
+[4.463s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/msg/TurtleCoordinates.idl
+[4.464s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/msg/TurtleCoordinates.msg
+[4.464s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/ament_index/resource_index/package_run_dependencies/custom_interfaces
+[4.464s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/share/ament_index/resource_index/parent_prefix_path/custom_interfaces
+[4.464s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.sh
+[4.464s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.dsv
+[4.464s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/path.sh
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/environment/path.dsv
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/local_setup.bash
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/local_setup.sh
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/local_setup.zsh
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/local_setup.dsv
+[4.465s] -- Installing: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/package.dsv
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/ament_index/resource_index/packages/custom_interfaces
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cExport.cmake
+[4.465s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cExport-noconfig.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cExport.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cppExport.cmake
+[4.466s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cppExport.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_pyExport.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[4.467s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake-extras.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig-version.cmake
+[4.468s] -- Up-to-date: /home/zero/turtlesim_project/install/custom_interfaces/share/custom_interfaces/package.xml
+[4.470s] Invoked command in '/home/zero/turtlesim_project/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zero/turtlesim_project/build/custom_interfaces

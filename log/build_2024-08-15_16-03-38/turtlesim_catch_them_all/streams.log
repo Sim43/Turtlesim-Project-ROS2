@@ -1,0 +1,37 @@
+[0.681s] Invoking command in '/home/zero/turtlesim_project/src/turtlesim_catch_them_all': AMENT_PREFIX_PATH=/home/zero/turtlesim_project/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zero/turtlesim_project/install/custom_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/zero/turtlesim_project/install/custom_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zero/turtlesim_project/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages:/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build install --record /home/zero/turtlesim_project/build/turtlesim_catch_them_all/install.log --single-version-externally-managed install_data
+[0.873s] running egg_info
+[0.874s] creating ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info
+[0.887s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[0.887s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[0.887s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[0.888s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[0.888s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[0.888s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.916s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.916s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.917s] running build
+[0.917s] running build_py
+[0.917s] creating /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build
+[0.917s] creating /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib
+[0.917s] creating /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[0.917s] copying turtlesim_catch_them_all/__init__.py -> /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[0.917s] copying turtlesim_catch_them_all/turtle_spawner.py -> /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[0.917s] running install
+[0.922s] running install_lib
+[0.936s] creating /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+[0.936s] copying /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/__init__.py -> /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+[0.936s] copying /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner.py -> /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+[0.936s] byte-compiling /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all/__init__.py to __init__.cpython-312.pyc
+[0.937s] byte-compiling /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all/turtle_spawner.py to turtle_spawner.cpython-312.pyc
+[0.937s] running install_data
+[0.937s] creating /home/zero/turtlesim_project/install/turtlesim_catch_them_all/share/ament_index
+[0.937s] creating /home/zero/turtlesim_project/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[0.937s] creating /home/zero/turtlesim_project/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.937s] copying resource/turtlesim_catch_them_all -> /home/zero/turtlesim_project/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.937s] copying package.xml -> /home/zero/turtlesim_project/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[0.938s] running install_egg_info
+[0.952s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all-0.0.0-py3.12.egg-info
+[0.953s] running install_scripts
+[1.047s] Installing turtle_spawner script to /home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[1.048s] writing list of installed files to '/home/zero/turtlesim_project/build/turtlesim_catch_them_all/install.log'
+[1.078s] Invoked command in '/home/zero/turtlesim_project/src/turtlesim_catch_them_all' returned '0': AMENT_PREFIX_PATH=/home/zero/turtlesim_project/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zero/turtlesim_project/install/custom_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/zero/turtlesim_project/install/custom_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zero/turtlesim_project/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zero/turtlesim_project/install/turtlesim_catch_them_all/lib/python3.12/site-packages:/home/zero/turtlesim_project/install/custom_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/zero/turtlesim_project/build/turtlesim_catch_them_all/build install --record /home/zero/turtlesim_project/build/turtlesim_catch_them_all/install.log --single-version-externally-managed install_data

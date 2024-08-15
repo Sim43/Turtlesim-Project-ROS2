@@ -1,0 +1,18 @@
+[0.011s] Invoking command in '/home/zero/turtlesim_project/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zero/turtlesim_project/build/custom_interfaces -- -j4 -l4
+[0.041s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.066s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.142s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.146s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.179s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.209s] -- Found rosidl_adapter: 4.6.3 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[0.212s] [31mCMake Error at /opt/ros/jazzy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:95 (message):
+[0.212s]   rosidl_generate_interfaces() the passed file 'msg/TurtleCoordinates.msg'
+[0.212s]   doesn't exist relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.212s]   '/home/zero/turtlesim_project/src/custom_interfaces'
+[0.212s] Call Stack (most recent call first):
+[0.212s]   CMakeLists.txt:12 (rosidl_generate_interfaces)
+[0.212s] 
+[0.212s] [0m
+[0.212s] -- Configuring incomplete, errors occurred!
+[0.214s] gmake: *** [Makefile:815: cmake_check_build_system] Error 1
+[0.216s] Invoked command in '/home/zero/turtlesim_project/build/custom_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zero/turtlesim_project/build/custom_interfaces -- -j4 -l4

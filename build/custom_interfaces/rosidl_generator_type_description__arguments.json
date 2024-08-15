@@ -1,0 +1,13 @@
+{
+  "package_name": "custom_interfaces",
+  "output_dir": "/home/zero/turtlesim_project/build/custom_interfaces/rosidl_generator_type_description/custom_interfaces",
+  "idl_tuples": [
+    "/home/zero/turtlesim_project/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/Turtle.idl",
+    "/home/zero/turtlesim_project/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/TurtleArray.idl",
+    "/home/zero/turtlesim_project/build/custom_interfaces/rosidl_adapter/custom_interfaces:srv/CatchTurtle.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces"
+  ]
+}

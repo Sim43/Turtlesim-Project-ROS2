@@ -1,0 +1,8 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/zero/turtlesim_project/src/custom_interfaces:msg/Turtle.msg",
+    "/home/zero/turtlesim_project/src/custom_interfaces:msg/TurtleArray.msg",
+    "/home/zero/turtlesim_project/src/custom_interfaces:srv/CatchTurtle.srv"
+  ]
+}

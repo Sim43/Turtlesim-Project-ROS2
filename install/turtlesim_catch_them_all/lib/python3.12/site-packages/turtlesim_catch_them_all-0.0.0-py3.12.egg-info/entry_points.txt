@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_spawner = turtlesim_catch_them_all.turtle_spawner:main
+turtlesim_controller = turtlesim_catch_them_all.controller:main

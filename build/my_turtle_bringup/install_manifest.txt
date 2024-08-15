@@ -1,0 +1,16 @@
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/launch/turtle_catch_them_all_app.launch.py
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/ament_index/resource_index/package_run_dependencies/my_turtle_bringup
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/ament_index/resource_index/parent_prefix_path/my_turtle_bringup
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/ament_prefix_path.sh
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/ament_prefix_path.dsv
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/path.sh
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/path.dsv
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.bash
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.sh
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.zsh
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.dsv
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/package.dsv
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/ament_index/resource_index/packages/my_turtle_bringup
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/cmake/my_turtle_bringupConfig.cmake
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/cmake/my_turtle_bringupConfig-version.cmake
+/home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/package.xml

@@ -1,0 +1,22 @@
+[0.011s] Invoking command in '/home/zero/turtlesim_project/build/my_turtle_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zero/turtlesim_project/build/my_turtle_bringup -- -j4 -l4
+[0.052s] Invoked command in '/home/zero/turtlesim_project/build/my_turtle_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zero/turtlesim_project/build/my_turtle_bringup -- -j4 -l4
+[0.093s] Invoking command in '/home/zero/turtlesim_project/build/my_turtle_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zero/turtlesim_project/build/my_turtle_bringup
+[0.108s] -- Install configuration: ""
+[0.108s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/launch
+[0.108s] -- Installing: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/launch/turtle_catch_them_all_app.launch.py
+[0.108s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/ament_index/resource_index/package_run_dependencies/my_turtle_bringup
+[0.108s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/ament_index/resource_index/parent_prefix_path/my_turtle_bringup
+[0.108s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/ament_prefix_path.sh
+[0.108s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/ament_prefix_path.dsv
+[0.109s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/path.sh
+[0.109s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/environment/path.dsv
+[0.109s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.bash
+[0.109s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.sh
+[0.109s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.zsh
+[0.109s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/local_setup.dsv
+[0.109s] -- Installing: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/package.dsv
+[0.112s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/ament_index/resource_index/packages/my_turtle_bringup
+[0.112s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/cmake/my_turtle_bringupConfig.cmake
+[0.112s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/cmake/my_turtle_bringupConfig-version.cmake
+[0.112s] -- Up-to-date: /home/zero/turtlesim_project/install/my_turtle_bringup/share/my_turtle_bringup/package.xml
+[0.115s] Invoked command in '/home/zero/turtlesim_project/build/my_turtle_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/turtlesim_project/install/turtlesim_catch_them_all:/home/zero/ros2_ws/install/my_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zero/turtlesim_project/build/my_turtle_bringup

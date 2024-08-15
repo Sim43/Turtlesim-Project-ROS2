@@ -1,0 +1,9 @@
+[31mCMake Error at /opt/ros/jazzy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:95 (message):
+  rosidl_generate_interfaces() the passed file 'msg/TurtleCoordinates.msg'
+  doesn't exist relative to the CMAKE_CURRENT_SOURCE_DIR
+  '/home/zero/turtlesim_project/src/custom_interfaces'
+Call Stack (most recent call first):
+  CMakeLists.txt:12 (rosidl_generate_interfaces)
+
+[0m
+gmake: *** [Makefile:815: cmake_check_build_system] Error 1
